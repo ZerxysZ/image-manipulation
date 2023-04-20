@@ -1,1 +1,1 @@
-image manipulator created by ZerxysZ. (This is for a class assignment :D)
+image manipulator created by ZerxysZ. (this is for a class assignment :D)
